@@ -30,3 +30,12 @@
 ## 플랫폼
 
 * 웹(크롬 브라우저)
+
+## 멤버
+
+* 멘티: 김도현([@ddyokim](https://github.com/ddyokim)), 이강호([@cannalee90](https://github.com/cannalee90)), 장은정([@cs801458j](https://github.com/cs801458j))
+* 멘토: 진유정([@yu1222](https://github.com/yu1222))
+
+## 이슈
+
+* [cloud-picker/issues](https://github.com/NAVER-CAMPUS-HACKDAY/cloud-picker/issues)

@@ -3,6 +3,8 @@
 import Vue from "vue";
 import App from "./components/App";
 
+import "bootstrap/dist/css/bootstrap.min.css";
+
 Vue.config.productionTip = false;
 
 /* eslint-disable no-new */
